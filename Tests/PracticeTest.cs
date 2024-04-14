@@ -32,7 +32,7 @@ namespace frontend.Tests
             pricingPageObjects.SelectAudienceValue(teamSliderValue);
              
 
-              
+            // // TODO:               
             // Assert.That(pricingPageObjects.GetStarterValuePrice().Text, Is.EqualTo("15"));
             // Assert.That(pricingPageObjects.GetCreatorValuePrice().Text, Is.EqualTo("1,065"));
             // Assert.That(pricingPageObjects.GetTeamValuePrice().Text, Is.EqualTo("1,315"));

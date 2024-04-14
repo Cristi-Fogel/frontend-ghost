@@ -12,6 +12,7 @@
       "invalidPassword": "invalid"  
     },
     "testData": {
-      "searchTherm": "create new blog"
+      "searchTherm": "create new blog",
+      "teamSliderValue": "69.23076923076923%"
     }
 }
