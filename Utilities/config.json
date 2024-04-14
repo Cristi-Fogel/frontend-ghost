@@ -1,0 +1,17 @@
+{
+    "AppSettings": {
+      "ApiKey": "your_api_key",
+      "ApiKey2": "your_api_key"
+    },
+    "LoginData": {   
+      "username": "Username123s",
+      "password": "Password123",
+      "username_automatedTestsOnlinePage": "student",
+      "password_automatedTestsOnlinePage": "Password123",
+      "invalidUsername": "invalid",
+      "invalidPassword": "invalid"  
+    },
+    "testData": {
+      "searchTherm": "create new blog"
+    }
+}
